@@ -83,7 +83,7 @@ python -m pytest -q
 テストでは、指標列とスコア範囲、将来価格が過去判定を変えないこと、バックテストが前営業日のポジションを使うこと、入力検証を確認します。
 
 ## Live Demo
-🚀 [[Open SignalScope on Streamlit](https://compose-c3hiklxb6rnj8wf8rh7i3u.streamlit.app/)](https://signalscope2pythonapp-hr52x5u5bnxvxem6hcffto.streamlit.app/)
+🚀 https://signalscopepythonapp-dxmlchzjcljaeqppoq7xsf.streamlit.app/
 
 SignalScope is a Streamlit-based stock market analysis application that analyzes market data and provides buy/sell signals based on technical indicators.
 
